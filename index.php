@@ -198,9 +198,9 @@
       </div>
     </div>
   </div>
-
+<!-- 
   <script src="https://apps.elfsight.com/p/platform.js" defer></script>
-  <div class="elfsight-app-dcc4934e-3eb0-4e18-98af-67fd2f034df1"></div>
+  <div class="elfsight-app-dcc4934e-3eb0-4e18-98af-67fd2f034df1"></div> -->
 
   <?php require "footer.php"; ?>
 </body>
